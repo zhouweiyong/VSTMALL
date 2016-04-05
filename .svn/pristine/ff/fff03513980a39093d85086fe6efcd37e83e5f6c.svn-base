@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified$Generated" generated="true"><source path="D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res"/><source path="D:\workspace\wk02\VSTMALL\UIFramework\build\generated\res\rs\release"/><source path="D:\workspace\wk02\VSTMALL\UIFramework\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\workspace\wk02\VSTMALL\UIFramework\src\release\res"/></dataSet><dataSet config="unspecified" generated-set="unspecified$Generated"><source path="D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\res"><file path="D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\res\values\values.xml" qualifiers=""><string name="app_name">Framework</string></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res"><file name="alpha_in" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\anim\alpha_in.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="indicator_bg_bottom" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="loading_dialog" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\loading_dialog.9.png" qualifiers="" type="drawable"/><file name="toast_bg" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\toast_bg.9.png" qualifiers="" type="drawable"/><file name="v4_background_tab" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\v4_background_tab.xml" qualifiers="" type="drawable"/><file name="v4_common_dot_normal" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\v4_common_dot_normal.xml" qualifiers="" type="drawable"/><file name="v4_common_dot_selected" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable\v4_common_dot_selected.xml" qualifiers="" type="drawable"/><file name="common_dialog_loading_layout" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout\common_dialog_loading_layout.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="toast_text_item" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout\toast_text_item.xml" qualifiers="" type="layout"/><file name="v4_auto_scrollpage_dot" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout\v4_auto_scrollpage_dot.xml" qualifiers="" type="layout"/><file name="v4_scrollpage_img" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout\v4_scrollpage_img.xml" qualifiers="" type="layout"/><file name="default_ptr_flip" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\mipmap-hdpi\default_ptr_flip.png" qualifiers="hdpi-v4" type="mipmap"/><file name="default_ptr_rotate" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\mipmap-hdpi\default_ptr_rotate.png" qualifiers="hdpi-v4" type="mipmap"/><file name="indicator_arrow" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\mipmap-hdpi\indicator_arrow.png" qualifiers="hdpi-v4" type="mipmap"/><file name="loading_dialog_rotate_anim_img" path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\mipmap-hdpi\loading_dialog_rotate_anim_img.png" qualifiers="hdpi-v4" type="mipmap"/><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\colors.xml" qualifiers=""><color name="color_transparent">#00000000</color><color name="bocop_dialog_bg">#77000000</color><color name="white">#ffffff</color></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\jazz_attrs.xml" qualifiers=""><declare-styleable name="JazzyViewPager">
+        <attr name="style">
+            <enum name="standard" value="0"/>
+            <enum name="tablet" value="1"/>
+            <enum name="cubein" value="2"/>
+            <enum name="cubeout" value="3"/>
+            <enum name="flipvertical" value="4"/>
+            <enum name="fliphorizontal" value="5"/>
+            <enum name="stack" value="6"/>
+            <enum name="zoomin" value="7"/>
+            <enum name="zoomout" value="8"/>
+            <enum name="rotateup" value="9"/>
+            <enum name="rotatedown" value="10"/>
+            <enum name="accordion" value="11"/>
+        </attr>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="boolean" name="outlineEnabled"/>
+        <attr format="color|reference" name="outlineColor"/>
+    </declare-styleable></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\jazz_colors.xml" qualifiers=""><color name="holo_blue">#FF33E5B5</color></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\jazz_strings.xml" qualifiers=""><string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\load_styles.xml" qualifiers=""><style name="Dialog_bocop">
+        <item name="android:windowBackground">@color/bocop_dialog_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style><style name="Loading_Dialog_trans" parent="Dialog_bocop">
+        <item name="android:windowBackground">@color/color_transparent</item>
+        <item name="android:windowIsFloating">false</item>
+    </style></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\ptr_attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+
+        <!-- A drawable to use as the background of the Refreshable View -->
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        <!-- A drawable to use as the background of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        <!-- Text Color of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        <!-- Mode of Pull-to-Refresh that should be used -->
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            <!-- These last two are depreacted -->
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        <!-- Whether the Indicator overlay(s) should be used -->
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
+        <attr format="reference" name="ptrDrawable"/>
+
+        <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        <!-- Style of Animation should be used displayed when pulling. -->
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        <!-- Whether the user can scroll while the View is Refreshing -->
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        <!--
+        	Whether PullToRefreshListView has it's extras enabled. This allows the user to be 
+        	able to scroll while refreshing, and behaves better. It acheives this by adding
+        	Header and/or Footer Views to the ListView.
+        -->
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        <!--
+        	Whether the Drawable should be continually rotated as you pull. This only
+        	takes effect when using the 'Rotate' Animation Style.
+        -->
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\ptr_dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\ptr_ids.xml" qualifiers=""><item name="scrollview" type="id"/><item name="webview" type="id"/><item name="gridview" type="id"/></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\pull_refresh_strings.xml" qualifiers=""><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="pull_to_refresh_refreshing_label">Loading…</string><string name="pull_to_refresh_pull_label">Pull to refresh…</string><string name="pull_to_refresh_release_label">Release to refresh…</string></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">UiLib</string></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\v4_attrs.xml" qualifiers=""><declare-styleable name="ViewPagerIndicator">
+
+  <!-- Style of the icon indicator's views. -->
+  <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+  <!-- Style of the line indicator. -->
+  <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+  <!-- Style of the title indicator. -->
+  <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+  <!-- Style of the tab indicator's tabs. -->
+  <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+  <!-- Style of the underline indicator. -->
+  <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+ </declare-styleable><declare-styleable name="PagerSlidingTabStrip">
+  <attr format="color" name="pstsIndicatorColor"/>
+  <attr format="color" name="pstsUnderlineColor"/>
+  <attr format="color" name="pstsDividerColor"/>
+  <attr format="dimension" name="pstsIndicatorHeight"/>
+  <attr format="dimension" name="pstsUnderlineHeight"/>
+  <attr format="dimension" name="pstsDividerPadding"/>
+  <attr format="dimension" name="pstsTabPaddingLeftRight"/>
+  <attr format="dimension" name="pstsScrollOffset"/>
+  <attr format="reference" name="pstsTabBackground"/>
+  <attr format="boolean" name="pstsShouldExpand"/>
+  <attr format="boolean" name="pstsTextAllCaps"/>
+ </declare-styleable></file><file path="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\values\v4_color.xml" qualifiers=""><color name="background_tab_pressed">#6633B5E5</color></file></source><source path="D:\workspace\wk02\VSTMALL\UIFramework\build\generated\res\rs\release"/><source path="D:\workspace\wk02\VSTMALL\UIFramework\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\workspace\wk02\VSTMALL\UIFramework\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="JazzyViewPager"><attr name="style"><enum name="standard" value="0"/><enum name="tablet" value="1"/><enum name="cubein" value="2"/><enum name="cubeout" value="3"/><enum name="flipvertical" value="4"/><enum name="fliphorizontal" value="5"/><enum name="stack" value="6"/><enum name="zoomin" value="7"/><enum name="zoomout" value="8"/><enum name="rotateup" value="9"/><enum name="rotatedown" value="10"/><enum name="accordion" value="11"/></attr><attr format="boolean" name="fadeEnabled"/><attr format="boolean" name="outlineEnabled"/><attr format="color|reference" name="outlineColor"/></declare-styleable></configuration></mergedItems></merger>

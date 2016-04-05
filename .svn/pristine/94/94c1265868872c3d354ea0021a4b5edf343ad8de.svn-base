@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\anim\\alpha_in.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\anim\\alpha_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]
