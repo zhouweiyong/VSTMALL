@@ -1,0 +1,898 @@
+[
+    {
+        "outputFile": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\jazz_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 58,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\v4_color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 58,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 51,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 53,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 53,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 45,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\jazz_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 39,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 39,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3812,
+                    "endColumn": 63,
+                    "endOffset": 3871
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 63,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3876,
+                    "endColumn": 63,
+                    "endOffset": 3935
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 63,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3940,
+                    "endColumn": 54,
+                    "endOffset": 3990
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 54,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3995,
+                    "endColumn": 56,
+                    "endOffset": 4047
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 56,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4052,
+                    "endColumn": 54,
+                    "endOffset": 4102
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 54,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4107,
+                    "endColumn": 37,
+                    "endOffset": 4140
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 38,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4145,
+                    "endColumn": 39,
+                    "endOffset": 4180
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 40,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4185,
+                    "endColumn": 36,
+                    "endOffset": 4217
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4222,
+                    "endColumn": 42,
+                    "endOffset": 4260
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 42,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4265,
+                    "endColumn": 101,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 101,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endColumn": 113,
+                    "endOffset": 4476
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 113,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4481,
+                    "endColumn": 107,
+                    "endOffset": 4584
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 107,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4589,
+                    "endColumn": 71,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 71,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 69,
+                    "endOffset": 4726
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 69,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4731,
+                    "endColumn": 77,
+                    "endOffset": 4804
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 77,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4809,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\load_styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 5583
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\values\\load_styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 846
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\jazz_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 58,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\v4_color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 58,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 51,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 53,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 53,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 45,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\jazz_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 39,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 39,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3812,
+                    "endColumn": 63,
+                    "endOffset": 3871
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 63,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3876,
+                    "endColumn": 63,
+                    "endOffset": 3935
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 63,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3940,
+                    "endColumn": 54,
+                    "endOffset": 3990
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 54,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3995,
+                    "endColumn": 56,
+                    "endOffset": 4047
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 56,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4052,
+                    "endColumn": 54,
+                    "endOffset": 4102
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 54,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4107,
+                    "endColumn": 37,
+                    "endOffset": 4140
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 38,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4145,
+                    "endColumn": 39,
+                    "endOffset": 4180
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 40,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4185,
+                    "endColumn": 36,
+                    "endOffset": 4217
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\ptr_ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4222,
+                    "endColumn": 42,
+                    "endOffset": 4260
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 42,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4265,
+                    "endColumn": 101,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 101,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endColumn": 113,
+                    "endOffset": 4476
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 113,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4481,
+                    "endColumn": 107,
+                    "endOffset": 4584
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 107,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4589,
+                    "endColumn": 71,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 71,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 69,
+                    "endOffset": 4726
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 69,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4731,
+                    "endColumn": 77,
+                    "endOffset": 4804
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 77,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4809,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\load_styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 5583
+                },
+                "from": {
+                    "file": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\values\\load_styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 846
+                    }
+                }
+            }
+        ]
+    }
+]

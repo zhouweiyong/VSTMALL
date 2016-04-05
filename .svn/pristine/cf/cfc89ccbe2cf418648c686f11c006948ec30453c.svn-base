@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\v4_common_dot_selected.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\v4_common_dot_selected.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\loading_dialog.9.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\loading_dialog.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\v4_background_tab.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\v4_background_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\v4_common_dot_normal.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\v4_common_dot_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\toast_bg.9.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\drawable\\toast_bg.9.png"
+    }
+]

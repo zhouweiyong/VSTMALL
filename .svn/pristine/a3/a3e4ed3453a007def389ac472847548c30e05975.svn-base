@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\loading_dialog_rotate_anim_img.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\loading_dialog_rotate_anim_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\default_ptr_flip.png"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\loading_dialog_rotate_anim_img.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\loading_dialog_rotate_anim_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\load_error_icon.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\load_error_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w03.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w03.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w02.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w02.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\page.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\page.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\page_now.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\page_now.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\load_img.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\load_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main_tab_index_selected.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\main_tab_index_selected.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w02.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w02.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w01.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w01.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w04.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w04.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\load_error_icon.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\load_error_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main_tab_index_selected.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\main_tab_index_selected.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w04.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w04.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\loading_dialog_rotate_anim_img.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\loading_dialog_rotate_anim_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main_tab_index_normal.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\main_tab_index_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\page_now.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\page_now.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w01.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w01.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\welcome_bg.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\welcome_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\welcome_bg.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\welcome_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\mipmap-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main_tab_index_normal.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\main_tab_index_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\page.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\page.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\load_img.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\load_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\w03.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\w03.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\workspace\wk01\VSTMALL\UIFramework\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\assets"/></dataSet><dataSet config="debug"><source path="D:\workspace\wk01\VSTMALL\UIFramework\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\workspace\wk01\VSTMALL\UIFramework\src\androidTest\assets"/></dataSet></merger>

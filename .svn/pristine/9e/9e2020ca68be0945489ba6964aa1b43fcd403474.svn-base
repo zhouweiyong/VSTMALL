@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\jars\libs\greendao-1.3.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b03673bfc2cf8acbae2db69f8be96c959541a235">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\greendao-1.3.7_2681c59affebbf81f3c4abab22ac67fe21c68936.jar" />
+    </item>
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03c427d09ae120d11f02b3c9989d27e66898290a">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\android-support-v4_ebe74bbe2abeb9ae72f6503c958f95fb0e4e0f9b.jar" />
+    </item>
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="741a6906057a029668032de872a0fc787fc57093">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_83cfaa3896642ed7d89a6e826e636e8a84adebd2.jar" />
+    </item>
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\jars\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5a3202ba29303d24e39d6733e8ab48a324e194e">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\gson-2.2.4_0475f6d7a72855be8b4512b4997a5762e6cf5095.jar" />
+    </item>
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\jars\libs\eventbus_src_v2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7f94271cb03a4ad4296917bfdd11097ea7e2e8f9">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\eventbus_src_v2.4.0_347bc8a1ef21b94b44dee5c0963c1615651328a2.jar" />
+    </item>
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3e6842282b9b70760fc43631d96cf96d7b940bb">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\VSTMALL-UIFramework-unspecified_bd69fe0469b97ce0ebe33e8b2ac55d4af92fd2d5.jar" />
+    </item>
+    <item
+        jar="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\FunctionFramework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6fc67423eeb842b5eaddf9aa8ff225b025c9465">
+        <dex dex="D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\VSTMALL-FunctionFramework-unspecified_3207cf0a61925e529ecc8649f6d7ee89dc0b6bf4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\v4_auto_scrollpage_dot.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\v4_auto_scrollpage_dot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\common_dialog_loading_layout.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\common_dialog_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\v4_scrollpage_img.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\v4_scrollpage_img.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\v4_auto_scrollpage_dot.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\v4_auto_scrollpage_dot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\common_dialog_loading_layout.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\common_dialog_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\toast_text_item.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\toast_text_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\v4_scrollpage_img.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\v4_scrollpage_img.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\toast_text_item.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\toast_text_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\UIFramework\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

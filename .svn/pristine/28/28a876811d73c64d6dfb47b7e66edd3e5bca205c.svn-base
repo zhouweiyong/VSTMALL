@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\v4_background_tab.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\v4_background_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\reload_corner_gray_selector.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\reload_corner_gray_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_shoplist.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_shoplist.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\v4_background_tab.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\v4_background_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_myinfo.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_myinfo.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_contacts.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_contacts.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\v4_common_dot_selected.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\v4_common_dot_selected.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_message.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_message.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_index.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_index.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\v4_common_dot_selected.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\v4_common_dot_selected.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_shoplist.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_shoplist.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog.9.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\loading_dialog.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\v4_common_dot_normal.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\v4_common_dot_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_message.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_message.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_contacts.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_contacts.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.9.png",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\toast_bg.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\reload_corner_gray_selector.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\reload_corner_gray_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_myinfo.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_myinfo.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_tab_index.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\src\\main\\res\\drawable\\selector_main_tab_index.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\v4_common_dot_normal.xml",
+        "source": "D:\\workspace\\wk02\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\v4_common_dot_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog.9.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\loading_dialog.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.9.png",
+        "source": "D:\\workspace\\wk01\\VSTMALL\\VstEshop\\build\\intermediates\\exploded-aar\\VSTMALL\\UIFramework\\unspecified\\res\\drawable\\toast_bg.9.png"
+    }
+]
