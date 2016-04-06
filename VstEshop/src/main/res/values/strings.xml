@@ -9,6 +9,7 @@
 
 
 
+    <!-- 主框架 -->
     <string name="common_me">我的</string>
     <string name="common_discover">发现</string>
     <string name="common_cart">购物车</string>
