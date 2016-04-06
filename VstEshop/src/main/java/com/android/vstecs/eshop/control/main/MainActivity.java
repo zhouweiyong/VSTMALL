@@ -16,10 +16,12 @@ import android.widget.LinearLayout;
 import com.android.vstecs.eshop.R;
 import com.android.vstecs.eshop.control.base.BaseAct;
 import com.android.vstecs.eshop.control.base.BaseFra;
+
 import com.android.vstecs.eshop.control.cart.fragment.CartFragment;
 import com.android.vstecs.eshop.control.index.fragment.IndexFragment;
 import com.android.vstecs.eshop.control.discover.fragment.DiscoverFragment;
 import com.android.vstecs.eshop.control.myinfo.fragment.MyInfoFragment;
+
 import com.android.vstecs.eshop.mode.event.CallMainPagerChangeEvent;
 import com.vstecs.android.uiframework.view.jazzyviewpage.JazzyViewPager;
 
@@ -137,6 +139,7 @@ public class MainActivity extends BaseAct implements ViewPager.OnPageChangeListe
 			case 2:
 				frag = new CartFragment();
 				break;
+
 			case 3:
 				frag = new MyInfoFragment();
 				break;
