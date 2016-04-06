@@ -52,7 +52,7 @@
             <TextView
                 style="@style/main_tab_tv"
                 android:layout_below="@+id/tab_icon_message"
-                android:text="@string/common_nearby" />
+                android:text="@string/common_discover" />
         </RelativeLayout>
 
         <RelativeLayout
@@ -68,7 +68,7 @@
             <TextView
                 style="@style/main_tab_tv"
                 android:layout_below="@+id/tab_icon_contacts"
-                android:text="@string/common_time_limit" />
+                android:text="@string/common_cart" />
         </RelativeLayout>
 
         <RelativeLayout

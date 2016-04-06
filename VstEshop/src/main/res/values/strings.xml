@@ -10,8 +10,8 @@
 
 
     <!-- 主框架 -->
-    <string name="common_time_limit">限时</string>
-    <string name="common_nearby">附近</string>
     <string name="common_me">我的</string>
+    <string name="common_discover">发现</string>
+    <string name="common_cart">购物车</string>
     <string name="common_index">首页</string>
 </resources>
