@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.vstecs.eshop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:name=".MallApplication"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".control.main.WelcomeAct"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".control.main.GuideViewAct" />
+        <activity android:name=".control.main.MainActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.SettingActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.MessageActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.MyCollectActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.BroseHisActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.AccountManageActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.ModifyNickNameActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.GoodsAddressActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.AccountSafeActivity" />
+        <activity android:name=".control.myinfo.fragment.activity.FeedbackActivity"/>
+        
+
+        <!--搜索页面-->
+        <activity android:name=".control.index.activity.SearchActivity"/>
+        <!--商品分类页面-->
+        <activity android:name=".control.productdetail.activity.ProductCategoryActivity"/>
+        <!--商品详情页面-->
+        <activity android:name=".control.productdetail.activity.ProductDetailActivity"/>
+    </application>
+
+</manifest>

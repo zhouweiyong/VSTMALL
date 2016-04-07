@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#E94518">
+
+        <ImageButton
+            android:id="@+id/ibtn_more_fi"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"
+            android:src="@mipmap/icon_more" />
+
+        <ImageButton
+            android:id="@+id/ibtn_msg_fi"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"
+            android:src="@mipmap/icon_message" />
+
+        <include
+            layout="@layout/common_layout_search"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/ibtn_msg_fi"
+            android:layout_toRightOf="@+id/ibtn_more_fi" />
+    </RelativeLayout>
+
+    <com.android.vstecs.eshop.views.ptrgridview.PullToRefreshGridViewWithHeaderAndFooter
+        android:id="@+id/ptr_gridview_fi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"/>
+
+</LinearLayout>

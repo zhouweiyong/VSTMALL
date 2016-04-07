@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="d0fbb0d2-ab6e-4a3c-8d56-80016bc8d858" name="Default" comment="更换下拉更新框架">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/widget" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/eventbus_src_v2_4_0.xml" afterPath="" />
@@ -18,41 +17,92 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/nineoldandroids_2_4_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseAct$1.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseAct$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseAct.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/activity/BaseActivity$1.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/activity/BaseActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/activity/BaseActivity$1.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/activity/BaseActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/activity/BaseActivity.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/activity/BaseActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/activity/BaseActivity.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/activity/BaseActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseAda.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseAda.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseFra$1.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseFra$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseFra.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/base/BaseFra.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/outputs/aar/FunctionFramework-debug.aar" afterPath="$PROJECT_DIR$/FunctionFramework/build/outputs/aar/FunctionFramework-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/outputs/aar/FunctionFramework-release.aar" afterPath="$PROJECT_DIR$/FunctionFramework/build/outputs/aar/FunctionFramework-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/GuideViewAct.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/GuideViewAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/index/fragment/IndexFragment.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/index/fragment/IndexFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/activity/KJFrameActivity.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/activity/KJFrameActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/activity/KJFrameActivity.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/activity/KJFrameActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/fragment/KJFrameFragment$1.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/fragment/KJFrameFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/fragment/KJFrameFragment$1.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/fragment/KJFrameFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/fragment/KJFrameFragment.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/debug/com/vstecs/android/funframework/ui/fragment/KJFrameFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/fragment/KJFrameFragment.class" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/classes/release/com/vstecs/android/funframework/ui/fragment/KJFrameFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/MainActivity$MainPagerAdapter.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/MainActivity$MainPagerAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/MainActivity.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/myinfo/fragment/MyInfoFragment.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/myinfo/fragment/MyInfoFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$anim.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$anim.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$anim.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$anim.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$anim.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$anim.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$array.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$array.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$array.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$array.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$array.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$array.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$array.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$array.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$attr.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$attr.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$attr.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$attr.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$attr.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$attr.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$color.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$color.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$color.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$color.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$color.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$color.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$dimen.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$dimen.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$dimen.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$dimen.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$dimen.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$dimen.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$drawable.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$drawable.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$drawable.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$drawable.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$id.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$id.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$id.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$id.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$layout.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$layout.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$layout.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$layout.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$mipmap.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$mipmap.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$mipmap.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$mipmap.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$mipmap.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$mipmap.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$string.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$string.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$string.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/funframework/R$string.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/funframework/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$string.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$style.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$style.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$style.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$style.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$styleable.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$styleable.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$styleable.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$styleable.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/debug/com/vstecs/android/uiframework/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R.class" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/classes/release/com/vstecs/android/uiframework/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/vstecs/android/uiframework/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/outputs/aar/UIFramework-debug.aar" afterPath="$PROJECT_DIR$/UIFramework/build/outputs/aar/UIFramework-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/outputs/aar/UIFramework-release.aar" afterPath="$PROJECT_DIR$/UIFramework/build/outputs/aar/UIFramework-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/outputs/apk/VstEshop-debug-unaligned.apk" afterPath="$PROJECT_DIR$/VstEshop/build/outputs/apk/VstEshop-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/outputs/apk/VstEshop-debug.apk" afterPath="$PROJECT_DIR$/VstEshop/build/outputs/apk/VstEshop-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/WelcomeAct.class" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/classes/debug/com/android/vstecs/eshop/control/main/WelcomeAct.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/debug/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/debug/libs/android-support-v4.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/release/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/release/libs/android-support-v4.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/exploded-aar/VSTMALL/FunctionFramework/unspecified/jars/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/exploded-aar/VSTMALL/FunctionFramework/unspecified/jars/libs/android-support-v4.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/FunctionFramework/unspecified/jars/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/FunctionFramework/unspecified/jars/libs/android-support-v4.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/bundles/release/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/bundles/debug/classes.jar" />
@@ -76,6 +126,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/FunctionFramework/unspecified/jars/libs/gson-2.2.4.jar" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/FunctionFramework/unspecified/jars/libs/gson-2.2.4.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/transforms/mergeJavaRes/debug/jars/2/3/main.jar" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/transforms/mergeJavaRes/debug/jars/2/3/main.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/transforms/mergeJavaRes/release/jars/2/3/main.jar" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/transforms/mergeJavaRes/release/jars/2/3/main.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/bundles/debug/libs/nineoldandroids-2.4.0.jar" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/bundles/debug/libs/nineoldandroids-2.4.0.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/bundles/release/libs/nineoldandroids-2.4.0.jar" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/bundles/release/libs/nineoldandroids-2.4.0.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/UIFramework/unspecified/jars/libs/nineoldandroids-2.4.0.jar" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/UIFramework/unspecified/jars/libs/nineoldandroids-2.4.0.jar" />
@@ -117,12 +168,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/symbols/androidTest/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/UIFramework/unspecified/R.txt" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/exploded-aar/VSTMALL/UIFramework/unspecified/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/VstEshop.iml" afterPath="$PROJECT_DIR$/VstEshop/VstEshop.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/res/merged/debug/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/androidTest/debug/single/anim.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/androidTest/debug/single/anim.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/debug/single/anim.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/release/single/anim.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/release/single/anim.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/blame/res/debug/single/anim.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/blame/res/debug/single/color.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/debug/single/drawable.json" />
@@ -132,6 +183,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/release/single/layout.json" afterPath="$PROJECT_DIR$/UIFramework/build/intermediates/blame/res/release/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/VstEshop/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VstEshop/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/VstEshop/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionFramework/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/FunctionFramework/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
@@ -199,21 +251,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ptr_dimens.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/values/ptr_dimens.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6428572">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/main/MainActivity.java">
+      <file leaf-file-name="IndexFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/index/fragment/IndexFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -221,114 +263,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.678572">
-              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GridViewWithHeaderAndFooter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/widget/ptrgridview/GridViewWithHeaderAndFooter.java">
+      <file leaf-file-name="IndexHeaderView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/index/view/IndexHeaderView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1523#1538#0" expanded="true" />
-                <element signature="e#1611#1626#0" expanded="true" />
-                <element signature="e#2882#2883#0" expanded="true" />
-                <element signature="e#2926#2927#0" expanded="true" />
-                <element signature="e#3421#3422#0" expanded="true" />
-                <element signature="e#3465#3466#0" expanded="true" />
-                <element signature="e#5218#5219#0" expanded="true" />
-                <element signature="e#5262#5263#0" expanded="true" />
-                <element signature="e#6319#6320#0" expanded="true" />
-                <element signature="e#6365#6366#0" expanded="true" />
-                <element signature="e#6404#6405#0" expanded="true" />
-                <element signature="e#6450#6451#0" expanded="true" />
-                <element signature="e#9514#9515#0" expanded="true" />
-                <element signature="e#9545#9546#0" expanded="true" />
-                <element signature="e#12107#12108#0" expanded="true" />
-                <element signature="e#12145#12146#0" expanded="true" />
-                <element signature="e#14172#14187#0" expanded="true" />
-                <element signature="e#15746#15747#0" expanded="true" />
-                <element signature="e#15789#15790#0" expanded="true" />
-                <element signature="e#15829#15830#0" expanded="true" />
-                <element signature="e#15883#15884#0" expanded="true" />
-                <element signature="e#15923#15924#0" expanded="true" />
-                <element signature="e#15977#15978#0" expanded="true" />
-                <element signature="e#28331#28332#0" expanded="true" />
-                <element signature="e#28370#28371#0" expanded="true" />
-                <element signature="e#28416#28417#0" expanded="true" />
-                <element signature="e#28474#28475#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VstEshop/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.571429">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UIFramework/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.75">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FunctionFramework/build.gradle">
+      <file leaf-file-name="ProductDetailActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/product/activity/ProductDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PullToRefreshGridViewWithHeaderAndFooter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/widget/ptrgridview/PullToRefreshGridViewWithHeaderAndFooter.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VstEshop/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33208954">
-              <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1106#1107#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#2244#2245#0" expanded="true" />
-                <element signature="e#2279#2280#0" expanded="true" />
-                <element signature="e#2337#2338#0" expanded="true" />
-                <element signature="e#2379#2380#0" expanded="true" />
-                <element signature="e#2439#2440#0" expanded="true" />
-                <element signature="e#2482#2483#0" expanded="true" />
+                <element signature="e#266#284#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PullToRefreshListView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshListView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="98" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="98" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -3565,16 +3540,20 @@
         <option value="$PROJECT_DIR$/UIFramework/build.gradle" />
         <option value="$PROJECT_DIR$/FunctionFramework/build.gradle" />
         <option value="$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/widget/ptrgridview/PullToRefreshGridViewWithHeaderAndFooter.java" />
+        <option value="$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/index/fragment/IndexFragment.java" />
+        <option value="$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/product/activity/ProductDetailActivity.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="348" />
-    <option name="y" value="14" />
-    <option name="width" value="1331" />
+    <option name="x" value="770" />
+    <option name="width" value="1343" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -3653,8 +3632,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3775,11 +3752,261 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swipemenulistview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VstEshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3825,6 +4052,118 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="UIFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pulltorefresh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="FunctionFramework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -3839,7 +4178,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="FunctionFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3853,16 +4196,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="FunctionFramework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VSTMALL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FunctionFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3876,9 +4251,34 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="66" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="71" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="71" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="66" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="109" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="739" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="68" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="74" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="73" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="68" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="68" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="771" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\productdetail\activity" />
       <recent name="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\drawable" />
       <recent name="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\layout" />
       <recent name="D:\workspace\wk02\VSTMALL\UIFramework\src\main\res\anim" />
@@ -3899,6 +4299,19 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\index\fragment\IndexFragment.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\fragment\MyInfoFragment.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\base\BaseFra.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\base\BaseAct.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\base\BaseAda.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\main\MainActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\values\strings.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\values\styles.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\values\colors.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\AndroidManifest.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\activity\KJFrameActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\activity\BaseActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\fragment\KJFrameFragment.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -3906,6 +4319,112 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\index\view</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\index\view\IndexHeaderView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\index\activity</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\index\activity\SearchActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\MessageActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\AccountManageActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\AccountSafeActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\BroseHisActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\FeedbackActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\GoodsAddressActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\ModifyNickNameActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\MyCollectActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\activity\SettingActivity.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\adapter</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\myinfo\adapter\MessageAdapter.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\viewinteractor</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\viewinteractor\HeaderInteractor.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\common</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\common\CommonTitleRightWindow.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\common\TitleBarHelper.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\MallApplication.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\mode\bean</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\mode\bean\IndexBannerBean.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\mode\bean\ProductListBean.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\CommonSearchView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\ptrgridview</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\ptrgridview\GridViewWithHeaderAndFooter.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\ptrgridview\PullToRefreshGridViewWithHeaderAndFooter.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\PullRefreshSwipeMenuListView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\PullToSwipeMenuListView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenu.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenuAdapter.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenuCreator.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenuItem.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenuLayout.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenuListView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\swipemenulistview\SwipeMenuView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\RoundImageView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\views\XWEditText.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\utils</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\utils\MMAlert.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\beans</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\beans\MessageBean.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\fragment_index.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\layout_index_header.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_account_manage.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_account_safe.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_brose_his.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_feedback.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_goods_address.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_message.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_modify_nick_name.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_my_collect.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\activity_setting.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\alert_notitle_twice.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\alert_title_single.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\alert_title_twice.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\common_titlebar.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\frag_myinfo.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\item_message_entity.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\item_title_evaluate_content.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\line.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\line_lint.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\layout\common_layout_search.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\values\attrs.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\anim\push_down_out.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\anim\push_up_in.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\anim\push_up_out.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\color\title_left_text_color.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\color\title_right_text_color.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\bottom_round_corner_gray_selector.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\common_btn_selector.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\common_button_frame.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\common_checkbox_selector.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\rect_shape_gray_selector.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\round_corner_gray_selector.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\round_corner_white.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\selector_section.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\top_round_corner_gray_selector.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\drawable\top_round_corner_white.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\circle.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\common_cb_showpw_closed.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\common_cb_showpw_open.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\common_setting_bg.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\daifukuan.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\daipingjia.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\daishouhuo.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\evaluate_et_bg.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\my_infomation_user__round_icon.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\ssdk_back_arr.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-hdpi\user_login_go.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\values-w820dp</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\values-w820dp\dimens.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-xhdpi\icon_message.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-xhdpi\icon_more.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-xhdpi\icon_search.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\res\mipmap-xhdpi\search_yuyin.png</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\adapter</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\adapter\LazyViewHolderCreator.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\adapter\ListViewDataAdapter.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\adapter\ListViewDataAdapterBase.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\adapter\ViewHolderBase.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\adapter\ViewHolderCreator.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -3913,6 +4432,9 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\widget</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\BindView.java</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\src\main\java\com\vstecs\android\funframework\ui\AnnotateUtil.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -3920,14 +4442,208 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="RESTORED" />
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\greendao-1.3.7_398db3bb75b02c9080d414c240c7358d245c7f96.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\gson-2.2.4_177fff9a4a163e77c292d6e963a4b446c9391513.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\android-support-v4_6a986a419822bc2cb30cc8d58c9cfdaed7d582fc.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\eventbus_src_v2.4.0_83f75b6a95bbfcfc72d926f41e75f789ee0a03dd.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_f8f031b5e34724c3ee3969fd8b2321d76495b586.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\VSTMALL-FunctionFramework-unspecified_f3f774c8df4be56791c4912eb71cc36ceffdc4ec.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\debug_4462a94a01a7780ee4b743432c242a6aca7a6d25.jar</PATH>
-          <PATH vcs="svn" revision="28">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\VSTMALL-UIFramework-unspecified_715162d771c52e2bfe492a3f2246df3251c65565.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\debug\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\androidTest\debug\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\res\merged\release\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\release\res\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\bundles\debug\res\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshGridView$InternalGridViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$OnPullEventListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView$InternalHorizontalScrollViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\extras</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2$JsValueCallback.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\extras\SoundPullEventListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\IndicatorLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\RotateLoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\FlipLoadingLayout$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\LoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\ViewCompat$SDK16.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\EmptyViewMethodAccessor.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\ViewCompat.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\IndicatorLayout$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\LoadingLayout$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\Utils.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\FlipLoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\internal\ViewCompat$SDK11.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshListView$InternalListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\LoadingLayoutProxy.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$OnRefreshListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView$InternalExpandableListViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$3.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$4.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\ILoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshAdapterViewBase.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshWebView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\OverscrollHelper.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$SmoothScrollRunnable.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$State.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshGridView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshGridView$InternalGridView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$OnRefreshListener2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$Mode.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\IPullToRefresh.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshListView$InternalListViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshScrollView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$Orientation.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshListView$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshAdapterViewBase$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshWebView$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshWebView$InternalWebViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshWebView$2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$AnimationStyle.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshScrollView$InternalScrollViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\OverscrollHelper$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$OnLastItemVisibleListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshBase$OnSmoothScrollFinishedListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\debug\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView$InternalExpandableListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshGridView$InternalGridView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$OnRefreshListener2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$Mode.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\IPullToRefresh.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshListView$InternalListViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshScrollView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$Orientation.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshListView$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshAdapterViewBase$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshWebView$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshWebView$InternalWebViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshWebView$2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$AnimationStyle.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshScrollView$InternalScrollViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\OverscrollHelper$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$OnLastItemVisibleListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$OnSmoothScrollFinishedListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView$InternalExpandableListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshGridView$InternalGridViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$OnPullEventListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView$InternalHorizontalScrollViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\extras</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\extras\SoundPullEventListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2$JsValueCallback.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\FlipLoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\ViewCompat$SDK11.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\IndicatorLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\RotateLoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\FlipLoadingLayout$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\LoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\ViewCompat$SDK16.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\EmptyViewMethodAccessor.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\ViewCompat.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\IndicatorLayout$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\LoadingLayout$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\internal\Utils.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshListView$InternalListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\LoadingLayoutProxy.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$2.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$OnRefreshListener.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView$InternalExpandableListViewSDK9.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$3.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$4.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\ILoadingLayout.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshAdapterViewBase.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshListView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshWebView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\OverscrollHelper.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$SmoothScrollRunnable.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshBase$State.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\intermediates\classes\release\com\handmark\pulltorefresh\library\PullToRefreshGridView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\generated\res\resValues</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\UIFramework\build\generated\res\resValues\androidTest</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\res\merged\debug\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\MainActivity.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\timelimit</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\timelimit\fragment</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\timelimit\fragment\TimeLimitFragment.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\nearby</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\nearby\fragment</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\nearby\fragment\NearbyFragment.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\classes\debug\com\android\vstecs\eshop\control\index\fragment\IndexFragment$1.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\VSTMALL-UIFramework-unspecified_715162d771c52e2bfe492a3f2246df3251c65565.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\greendao-1.3.7_398db3bb75b02c9080d414c240c7358d245c7f96.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\gson-2.2.4_177fff9a4a163e77c292d6e963a4b446c9391513.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\android-support-v4_6a986a419822bc2cb30cc8d58c9cfdaed7d582fc.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\eventbus_src_v2.4.0_83f75b6a95bbfcfc72d926f41e75f789ee0a03dd.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_f8f031b5e34724c3ee3969fd8b2321d76495b586.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\VSTMALL-FunctionFramework-unspecified_f3f774c8df4be56791c4912eb71cc36ceffdc4ec.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\pre-dexed\debug\debug_4462a94a01a7780ee4b743432c242a6aca7a6d25.jar</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\layout\pull_to_refresh_header_horizontal.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\layout\pull_to_refresh_header_vertical.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\drawable\indicator_bg_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\drawable\indicator_bg_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\anim\slide_in_from_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\anim\slide_out_to_top.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\anim\slide_in_from_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\intermediates\exploded-aar\VSTMALL\UIFramework\unspecified\res\anim\slide_out_to_bottom.xml</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\generated\res\resValues</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\build\generated\res\resValues\androidTest</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\build\intermediates\classes\release\com\vstecs\android\funframework\ui\AnnotateUtil.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\build\intermediates\classes\release\com\vstecs\android\funframework\ui\BindView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\build\intermediates\classes\debug\com\vstecs\android\funframework\ui\AnnotateUtil.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\build\intermediates\classes\debug\com\vstecs\android\funframework\ui\BindView.class</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\build\generated\res\resValues</PATH>
+          <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\FunctionFramework\build\generated\res\resValues\androidTest</PATH>
         </FILE-GROUP>
       </FILE-GROUP>
       <FILE-GROUP>
@@ -3957,6 +4673,7 @@
         <option name="mySupportsDeletion" value="false" />
         <option name="myCanBeAbsent" value="false" />
         <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        <PATH vcs="svn" revision="88">D:\workspace\wk02\VSTMALL\VstEshop\src\main\java\com\android\vstecs\eshop\control\productdetail</PATH>
       </FILE-GROUP>
       <FILE-GROUP>
         <option name="myUpdateName" value="Merged with property conflicts" />
@@ -4388,41 +5105,65 @@
       <option name="project" value="LOCAL" />
       <updated>1459924553823</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="更换下拉更新框架">
+      <created>1460026338749</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1460026338749</updated>
+    </task>
+    <task id="LOCAL-00017" summary="更换下拉更新框架">
+      <created>1460026371571</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1460026371571</updated>
+    </task>
+    <task id="LOCAL-00018" summary="更换下拉更新框架">
+      <created>1460026400007</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1460026400007</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2016/04/07更新">
+      <created>1460026498250</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1460026498250</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="348" y="14" width="1331" height="1000" extended-state="0" />
+    <frame x="770" y="0" width="1343" height="1000" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32897863" sideWeight="0.52793074" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.283848" sideWeight="0.67887765" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.47206923" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2304038" sideWeight="0.48387095" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.48630136" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293371" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39667457" sideWeight="0.59158224" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289166" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22921616" sideWeight="0.6079501" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.497272" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293371" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32897863" sideWeight="0.47206923" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39667457" sideWeight="0.40841776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3642801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5295043" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25798908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23159145" sideWeight="0.51519877" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296617" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496474" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -4435,330 +5176,18 @@
     <MESSAGE value="修改首页底部bar" />
     <MESSAGE value="更改最小sdk" />
     <MESSAGE value="更换下拉更新框架" />
-    <option name="LAST_COMMIT_MESSAGE" value="更换下拉更新框架" />
+    <MESSAGE value="2016/04/07更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016/04/07更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/myinfo/fragment/MyInfoFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/cart/fragment/CartFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42047533">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/discover/fragment/DiscoverFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42047533">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/IPullToRefresh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33272395">
-          <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/anim/ptr_update_loading_progressbar.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08409506">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/layout/ptr_pull_to_load_footer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.2">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/FooterLoadingLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33272395">
-          <caret line="51" column="86" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/LoadingLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/myinfo/fragment/MyInfoFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/layout/ptr_pull_to_refresh_header.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73307544">
-          <caret line="68" column="79" selection-start-line="68" selection-start-column="79" selection-end-line="68" selection-end-column="79" />
-          <folding>
-            <element signature="e#1465#1525#0" expanded="true" />
-            <element signature="e#1631#1690#0" expanded="true" />
-            <element signature="e#2173#2233#0" expanded="true" />
-            <element signature="e#2315#2374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/HeaderLoadingLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="57" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshGridView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/RotateLoadingLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/drawable/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/layout/ptr_pull_to_refresh_header2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2">
-          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshWebView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57586837">
-          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.712264">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/values/ptr_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88299817">
-          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/res/values/ptr_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6428572">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/main/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.678572">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/widget/ptrgridview/GridViewWithHeaderAndFooter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1523#1538#0" expanded="true" />
-            <element signature="e#1611#1626#0" expanded="true" />
-            <element signature="e#2882#2883#0" expanded="true" />
-            <element signature="e#2926#2927#0" expanded="true" />
-            <element signature="e#3421#3422#0" expanded="true" />
-            <element signature="e#3465#3466#0" expanded="true" />
-            <element signature="e#5218#5219#0" expanded="true" />
-            <element signature="e#5262#5263#0" expanded="true" />
-            <element signature="e#6319#6320#0" expanded="true" />
-            <element signature="e#6365#6366#0" expanded="true" />
-            <element signature="e#6404#6405#0" expanded="true" />
-            <element signature="e#6450#6451#0" expanded="true" />
-            <element signature="e#9514#9515#0" expanded="true" />
-            <element signature="e#9545#9546#0" expanded="true" />
-            <element signature="e#12107#12108#0" expanded="true" />
-            <element signature="e#12145#12146#0" expanded="true" />
-            <element signature="e#14172#14187#0" expanded="true" />
-            <element signature="e#15746#15747#0" expanded="true" />
-            <element signature="e#15789#15790#0" expanded="true" />
-            <element signature="e#15829#15830#0" expanded="true" />
-            <element signature="e#15883#15884#0" expanded="true" />
-            <element signature="e#15923#15924#0" expanded="true" />
-            <element signature="e#15977#15978#0" expanded="true" />
-            <element signature="e#28331#28332#0" expanded="true" />
-            <element signature="e#28370#28371#0" expanded="true" />
-            <element signature="e#28416#28417#0" expanded="true" />
-            <element signature="e#28474#28475#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4766,7 +5195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.571429">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4774,7 +5202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.75">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4782,25 +5209,204 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/IPullToRefresh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33279485">
+          <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/widget/ptrgridview/PullToRefreshGridViewWithHeaderAndFooter.java">
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33208954">
-          <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.03898305">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/JavaTools/sdk/sources/android-23/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33279485">
+          <caret line="4610" column="16" selection-start-line="4610" selection-start-column="16" selection-end-line="4610" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/FunctionFramework/libs/android-support-v4.jar!/android/support/v4/app/FragmentActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34856176">
+          <caret line="568" column="16" selection-start-line="568" selection-start-column="16" selection-end-line="568" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionFramework/src/main/java/com/vstecs/android/funframework/ui/activity/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22294022">
+          <caret line="127" column="34" selection-start-line="127" selection-start-column="34" selection-end-line="127" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/base/BaseAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/android/support/v4/view/PagerData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11129032">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/android/support/v4/view/AutoScrollViewPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionFramework/src/main/java/com/vstecs/android/funframework/utils/KJLoger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.106796116">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.179611">
+          <caret line="414" column="13" selection-start-line="414" selection-start-column="13" selection-end-line="414" selection-end-column="13" />
+          <folding>
+            <element signature="e#13128#13129#0" expanded="true" />
+            <element signature="e#13167#13168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/myinfo/fragment/MyInfoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionFramework/src/main/java/com/vstecs/android/funframework/ui/activity/KJFrameActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+          <folding>
+            <element signature="e#1125#1212#0" expanded="false" />
+            <element signature="e#1211#1212#0" expanded="false" />
+            <element signature="e#1384#1385#0" expanded="false" />
+            <element signature="e#1405#1406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionFramework/src/main/java/com/vstecs/android/funframework/ui/fragment/KJFrameFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#1104#1105#0" expanded="false" />
+            <element signature="e#1125#1126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/base/BaseFra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0344827">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionFramework/src/main/java/com/vstecs/android/funframework/ui/fragment/BaseFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIFramework/src/main/java/com/vstecs/android/uiframework/pulltorefresh/PullToRefreshListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="98" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/JavaTools/sdk/sources/android-23/android/widget/ListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323442">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#266#284#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/JavaTools/sdk/sources/android-23/android/view/LayoutInflater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="706" column="0" selection-start-line="706" selection-start-column="0" selection-end-line="706" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/index/fragment/IndexFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#2244#2245#0" expanded="true" />
-            <element signature="e#2279#2280#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
-            <element signature="e#2379#2380#0" expanded="true" />
-            <element signature="e#2439#2440#0" expanded="true" />
-            <element signature="e#2482#2483#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/index/view/IndexHeaderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VstEshop/src/main/java/com/android/vstecs/eshop/control/product/activity/ProductDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

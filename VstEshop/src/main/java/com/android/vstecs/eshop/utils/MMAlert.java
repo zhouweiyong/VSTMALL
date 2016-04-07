@@ -1,0 +1,227 @@
+package com.android.vstecs.eshop.utils;
+
+import android.app.Dialog;
+import android.content.Context;
+import android.text.TextUtils;
+import android.view.Gravity;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.view.Window;
+import android.view.WindowManager;
+import android.widget.Button;
+import android.widget.TextView;
+
+import com.android.vstecs.eshop.R;
+
+
+public class MMAlert {
+	public interface DialogOnItemClickListener {
+		void onItemClickListener(View v, int position);
+	}
+
+	// begin---底部弹出宽，类似苹果的//////////////////////////////////////////
+	public static Dialog createShowAlert(final Context context, int layoutId) {
+		LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+		View layout = inflater.inflate(layoutId, null);
+		final int cFullFillWidth = 10000;
+		layout.setMinimumWidth(cFullFillWidth);
+
+		// set a large value put it in bottom
+		final Dialog dlg = new Dialog(context, R.style.MMTheme_DataSheet);
+		Window w = dlg.getWindow();
+		WindowManager.LayoutParams lp = w.getAttributes();
+		lp.x = 0;
+		final int cMakeBottom = -1000;
+		lp.y = cMakeBottom;
+		lp.gravity = Gravity.BOTTOM;// 改变显示位置
+		dlg.onWindowAttributesChanged(lp);
+		dlg.setCanceledOnTouchOutside(true);
+		dlg.setContentView(layout);
+		return dlg;
+	}
+
+	public static Dialog createTwoChoicAlertNoTitle(final Context context, int fCStrId, int sCStrId, final DialogOnItemClickListener onItemClickListener) {
+		final Dialog dlg = createShowAlert(context, R.layout.alert_notitle_twice);
+		dlg.findViewById(R.id.cancel).setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+			}
+
+		});
+		TextView item_first = (TextView) dlg.findViewById(R.id.item_first);
+		item_first.setText(fCStrId);
+		item_first.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+				if (onItemClickListener != null)
+					onItemClickListener.onItemClickListener(v, 0);
+			}
+		});
+		TextView item_second = (TextView) dlg.findViewById(R.id.item_second);
+		item_second.setText(sCStrId);
+		item_second.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+				if (onItemClickListener != null)
+					onItemClickListener.onItemClickListener(v, 1);
+			}
+		});
+		return dlg;
+	}
+
+	public static Dialog createTwoChoicAlertNoTitle(final Context context, String fCStrId, String sCStrId, final DialogOnItemClickListener onItemClickListener) {
+		final Dialog dlg = createShowAlert(context, R.layout.alert_notitle_twice);
+		dlg.findViewById(R.id.cancel).setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+			}
+
+		});
+		TextView item_first = (TextView) dlg.findViewById(R.id.item_first);
+		item_first.setText(fCStrId);
+		item_first.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+				if (onItemClickListener != null)
+					onItemClickListener.onItemClickListener(v, 0);
+			}
+		});
+		TextView item_second = (TextView) dlg.findViewById(R.id.item_second);
+		item_second.setText(sCStrId);
+		item_second.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+				if (onItemClickListener != null)
+					onItemClickListener.onItemClickListener(v, 1);
+			}
+		});
+		return dlg;
+	}
+
+	/***
+	 * 类似图片选择
+	 * @param context
+	 * @param titleStrId
+	 * @param fCStrId
+	 * @param sCStrId
+	 * @param onItemClickListener
+	 * @return
+	 * @author FAN 创建于Dec 3, 2014
+	 */
+	public static Dialog createTwoChoiceAlert(final Context context, int titleStrId, int fCStrId, int sCStrId, final DialogOnItemClickListener onItemClickListener) {
+		final Dialog dlg = createShowAlert(context, R.layout.alert_title_twice);
+		dlg.findViewById(R.id.cancel).setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+			}
+
+		});
+		TextView title = (TextView) dlg.findViewById(R.id.title);
+		title.setText(titleStrId);
+		TextView item_first = (TextView) dlg.findViewById(R.id.item_first);
+		item_first.setText(fCStrId);
+		if (TextUtils.isEmpty(title.getText().toString())) {
+			title.setVisibility(View.GONE);
+			item_first.setBackgroundResource(R.drawable.top_round_corner_white);
+		} else {
+			title.setVisibility(View.VISIBLE);
+			item_first.setBackgroundResource(R.drawable.rect_shape_gray_selector);
+		}
+		item_first.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+				if (onItemClickListener != null)
+					onItemClickListener.onItemClickListener(v, 0);
+			}
+		});
+		TextView item_second = (TextView) dlg.findViewById(R.id.item_second);
+		item_second.setText(sCStrId);
+		item_second.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+				if (onItemClickListener != null)
+					onItemClickListener.onItemClickListener(v, 1);
+			}
+		});
+		return dlg;
+	}
+
+	/**
+	 * 从底部弹起类似苹果弹出框的效果
+	 * @param context
+	 * @param titleStrId 标题
+	 * @param itemStrId 唯一显示的条目文字
+	 * @param itemColorId 条目文字颜色
+	 * @param itemClick 条目点击事件
+	 * @return
+	 */
+	public static final Dialog showConfirmAlert(final Context context, int titleStrId, int itemStrId, int itemColorId, OnClickListener itemClick) {
+		final Dialog dlg = createShowAlert(context, R.layout.alert_title_single);
+		TextView titleView = (TextView) dlg.findViewById(R.id.title);
+		titleView.setText(titleStrId);
+		TextView itemView = (TextView) dlg.findViewById(R.id.tv_item);
+		itemView.setText(itemStrId);
+		itemView.setTextColor(context.getResources().getColor(itemColorId));
+		itemView.setOnClickListener(itemClick);
+		dlg.findViewById(R.id.cancel).setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				dlg.dismiss();
+			}
+		});
+		return dlg;
+	}
+
+	// end---底部弹出宽，类似苹果的//////////////////////////////////////////
+
+//	// 弹窗, 内容为自定义view,类似红包分享///////////////////////////////////////////
+//	public static Dialog createShowCustomeSingleBtnDialog(final Context context, View contentView, CharSequence btnStr, final OnClickListener clickListener) {
+//		final Dialog dlg = new Dialog(context, R.style.MMTheme);
+//		LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+//		View root = inflater.inflate(R.layout.dialog_custom_sure_tips, null);
+//
+//		ViewGroup dialog_parent = (ViewGroup) root.findViewById(R.id.dialog_parent);
+//
+//		dialog_parent.addView(contentView, 0);
+//
+//		Button leftBtn = (Button) root.findViewById(R.id.tip_left_btn);
+//		if (!TextUtils.isEmpty(btnStr))
+//			leftBtn.setText(btnStr);
+//		leftBtn.setOnClickListener(new OnClickListener() {
+//
+//			@Override
+//			public void onClick(View v) {
+//				dlg.dismiss();
+//				if (clickListener != null)
+//					clickListener.onClick(v);
+//			}
+//		});
+//
+//		// set a large value put it in bottom
+//		dlg.setCanceledOnTouchOutside(true);
+//		dlg.setContentView(root);
+//		return dlg;
+//	}
+	
+}

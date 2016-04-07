@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_f6f6f6"
+    android:orientation="vertical"
+    tools:context="com.huika.dealontop.control.myinfo.activity.SettingActivity">
+
+    <!--<include layout="@layout/common_titlebar"/>-->
+
+
+    <RelativeLayout
+        android:id="@+id/setting_feedback_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/white"
+        android:clickable="true">
+
+        <include layout="@layout/line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="意见反馈"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_feedback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="32dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/color_999999"
+            android:textSize="14sp"
+            android:visibility="visible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:scaleType="matrix"
+            android:src="@mipmap/user_login_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/line_lint" />
+
+    <RelativeLayout
+        android:id="@+id/setting_service_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="44dp"
+        android:background="@color/white"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="客服热线"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:scaleType="matrix"
+            android:src="@mipmap/user_login_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/line_lint" />
+
+    <RelativeLayout
+        android:id="@+id/setting_about_us_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="44dp"
+        android:background="@color/white"
+        android:clickable="true">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="关于我们"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:scaleType="matrix"
+            android:src="@mipmap/user_login_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/line" />
+
+    <View
+        android:layout_width="match_parent"
+
+        android:layout_height="35dp" />
+
+    <include layout="@layout/line" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="消息"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <CheckBox
+            android:id="@+id/switch_receive_remind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/common_checkbox_selector"
+            android:button="@null" />
+    </RelativeLayout>
+
+    <include layout="@layout/line_lint" />
+
+
+    <RelativeLayout
+        android:id="@+id/setting_clearcash_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="44dp"
+        android:background="@color/white"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="清除缓存"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_cache"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="32dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/color_999999"
+            android:textSize="14sp"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:scaleType="matrix"
+            android:src="@mipmap/user_login_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/line_lint" />
+
+    <TextView
+        android:id="@+id/check_version_tv"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/white"
+        android:drawableRight="@mipmap/user_login_go"
+        android:gravity="center|left"
+        android:paddingLeft="13dp"
+        android:paddingRight="13dp"
+        android:text="检测更新"
+        android:textColor="@color/color_333333"
+        android:textSize="16sp" />
+
+    <include layout="@layout/line" />
+
+</LinearLayout>
